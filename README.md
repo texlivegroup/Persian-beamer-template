@@ -1,2 +1,28 @@
-# Persian-beamer-template
-قالب لاتک بیمر
+# قالب ارائه Beamer فارسی | Persian Beamer Presentation Template
+.zip)
+
+> 🇮🇷 یک قالب آماده و حرفه‌ای برای ارائه‌های علمی، دانشگاهی و کنفرانسی به **زبان فارسی** با استفاده از **Beamer** و **XeLaTeX** | A complete Persian RTL template for academic and professional presentations using Beamer and XeLaTeX
+
+---
+
+## 📌 نمای کلی | Overview
+
+این مخزن شامل یک قالب کامل **Beamer** برای نوشتن ارائه‌های راست‌به‌چپ (RTL) به زبان فارسی است. با استفاده از این قالب می‌توانید به سادگی اسلایدهای زیبا، استاندارد و علمی برای کنفرانس‌ها، سمینارها و جلسات دفاع پایان‌نامه تولید کنید.
+
+**This repository provides a ready-to-use Beamer template for Persian (RTL) presentations. Perfect for conferences, seminars, and thesis defenses.**
+
+---
+
+## ✨ ویژگی‌ها | Features
+
+- ✅ پشتیبانی کامل از نوشتار **راست‌به‌چپ (RTL)*ستفاده از بسته `bidi`
+- ✅ سازگار باLaTeX** و **LuaLaTeX**
+- ✅ داراYas IRANSharp, XB Niloofar)
+- ✅ ساختار آماده برای: صفحه عنوان، فهرست مطالب،  رنگ‌ها، فونت‌ها و استایل
+- ✅ خروجی PDF با کیفیت بالا
+- ✅ کاملاً رایگان و متن‌باز (مجوز MIT)
+
+--را به `sample.png` تغییر ناتوضیحات نحوه استفاده به صورت کامنت در فایل درج شده است
+-. دانلود مخزن
+
+**روش سریع (دانلود ZIP):**
