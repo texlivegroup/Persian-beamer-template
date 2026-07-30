@@ -1,7 +1,7 @@
 # قالب ارائه Beamer فارسی 
 Persian Beamer Presentation Template
 
- یک قالب آماده و حرفه‌ای برای ارائه‌های علمی، دانشگاهی و کنفرانسی به **زبان فارسی** با استفاده از **Beamer** و **XeLaTeX**
+ یک قالب آماده  برای ارائه‌های علمی، دانشگاهی و کنفرانسی به **زبان فارسی** با استفاده از **Beamer** و **XeLaTeX**
  |
  A complete Persian RTL template for academic and professional presentations using Beamer and XeLaTeX
 
