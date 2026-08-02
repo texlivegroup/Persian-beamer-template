@@ -1,5 +1,6 @@
-# قالب ارائه Beamer فارسی 
-Persian Beamer Presentation Template
+#  قالب-بیمر-فارسی
+
+##Persian Beamer Presentation Template
 
  یک قالب آماده  برای ارائه‌های علمی، دانشگاهی و کنفرانسی به **زبان فارسی** با استفاده از **Beamer** و **XeLaTeX**
  |
